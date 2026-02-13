@@ -1,2 +1,0 @@
-export { DEEPSEEK_API_KEY } from "./deepseek_key";
-export const OPENAI_API_KEY = (window as any).OPENAI_API_KEY || "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";
